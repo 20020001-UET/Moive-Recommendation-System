@@ -1,0 +1,165 @@
+.streamlit-expanderHeader>* {
+    color: green;
+
+}
+
+.stMarkdown {
+    text-align: left;
+}
+
+.css-1vgnld3.effi0qh0 {
+    color: blue;
+}
+
+.row-widget.stButton>* {
+    padding: 10px;
+    font-family: 'Lato', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 12px;
+    margin-top: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    background-color: #db0000;
+    color: #ffffff;
+    font-size: 17px;
+    border: 0px solid;
+    padding: 10px;
+}
+
+.css-f341up.e16nr0p31 {
+    background-color: #0000009e;
+    padding: 19px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+a {
+    background: #db0000;
+    color: #ffffff !important;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 12px;
+    letter-spacing: 1px;
+    margin: 0 0 30px;
+    padding: 10px 15px 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px 5px 5px 5px;
+}
+
+div.e1tzin5v2:not(.css-ulq27u):not(.css-ht50i) {
+    background-color: #030000c4;
+    border-radius: 5px;
+    border: 1px solid #443c3c;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 12px;
+    /*margin: 5px;*/
+    padding: 10px;
+    font-family: 'Lato';
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.css-1v0mbdj.etr89bj1 {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.css-1v0mbdj.etr89bj1:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 1000;
+}
+
+.css-177yq5e {
+    margin-bottom: 0rem;
+}
+
+.css-e370rw.e19lei0e0 {
+    visibility: hidden;
+
+}
+
+.css-zw9mgv.edgvbvh6 {
+    color: yellow;
+    font-family: 'Lato';
+    border-color: white;
+}
+
+div>p {
+    font-size: 30px !important;
+    font-weight: 60;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #831010, 0px 0px 10px #831010, 0px 0px 10px #831010,
+        0px 0px 20px #831010;
+}
+
+div[data-baseweb="select"]>div {
+    border-color:#443c3c;
+}
+
+.css-1fv8s86.e16nr0p34>p{
+    color: #fdfdfe;
+    font-size: 20px !important;
+    text-shadow: none;
+}
+button>div>p {
+    color: #fdfdfe !important;
+    font-size: 40px !important;
+}
+ul>li>p { 
+    color: white;
+    font-size: 20px;
+}
+label[data-baseweb="radio"]>div {
+    font-size: 23px;
+    font-weight: 60;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #831010, 0px 0px 10px #831010, 0px 0px 10px #831010,
+        0px 0px 20px #831010;
+}
+
+span[data-baseweb="tag"]>span {
+    color: #fdfdfe;
+    font-size: 18px;
+    /* background-color:#db0000; */
+}
+
+
+/* div.st-cu.st-cb.st-bi.st-cv.st-cw:after{ 
+    color: #b393d3 !important;
+    content: "????" !important;
+} */
+/* #movie-recommender-system {
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+    color: #e10202;
+    font-size: 30px;
+} */
+
+#movie-recommender-system {
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #831010, 0px 0px 10px #831010, 0px 0px 10px #831010,
+        0px 0px 20px #831010;
+}
+
+.stApp.streamlit-wide {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://static.itavisen.no/wp-content/uploads/2019/06/netflix-popout.jpg");
+    background-size: cover;
+}
