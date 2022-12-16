@@ -47,7 +47,7 @@ if recommendation_type == "Content Based":
         # c3 = initialize_movie_widget()
         col_for_content_based = c1,c2
         show_recommended_movie_info(contend_based_recommended_movies, col_for_content_based, show_score)
-if recommendation_type == "Content Based (extra)":
+if recommendation_type == "Content Based (more Features)":
     contend_extra_based_recommended_movies = contend_based_recommendations_extra(movie, options)
     description_table(content_extra_based_cfg)
     if(not contend_extra_based_recommended_movies.empty): 
